@@ -1,5 +1,5 @@
 {
-	"name": "df_transform_hospital_admission",
+	"name": "df_transform_hospital_admissions",
 	"properties": {
 		"type": "MappingDataFlow",
 		"typeProperties": {
