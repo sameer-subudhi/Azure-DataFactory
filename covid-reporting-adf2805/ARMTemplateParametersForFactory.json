@@ -22,6 +22,12 @@
 		},
 		"ls_http_opendata_ecdc_europe_eu_properties_typeProperties_url": {
 			"value": "@{linkedService().sourceBaseURL}"
+		},
+		"tr_ingest_population_data_properties_typeProperties_scope": {
+			"value": "/subscriptions/5184416c-b80c-46cf-af5c-2a6e7fa9ba77/resourceGroups/reporting-rg/providers/Microsoft.Storage/storageAccounts/covidreportingsa2505"
+		},
+		"tr_population_data_arrived_properties_typeProperties_scope": {
+			"value": "/subscriptions/5184416c-b80c-46cf-af5c-2a6e7fa9ba77/resourceGroups/reporting-rg/providers/Microsoft.Storage/storageAccounts/covidreportingsa2505"
 		}
 	}
 }
