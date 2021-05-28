@@ -3,6 +3,12 @@
 	"properties": {
 		"annotations": [],
 		"runtimeState": "Stopped",
+		"pipeline": {
+			"pipelineReference": {
+				"referenceName": "pl_sqlize_hospital_adminssions_daily_data",
+				"type": "PipelineReference"
+			}
+		},
 		"type": "TumblingWindowTrigger",
 		"typeProperties": {
 			"frequency": "Minute",
