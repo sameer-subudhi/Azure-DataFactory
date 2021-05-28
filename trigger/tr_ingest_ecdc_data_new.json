@@ -1,5 +1,5 @@
 {
-	"name": "tr_ingest_ecdc_data_group",
+	"name": "tr_ingest_ecdc_data_new",
 	"properties": {
 		"annotations": [],
 		"runtimeState": "Stopped",
