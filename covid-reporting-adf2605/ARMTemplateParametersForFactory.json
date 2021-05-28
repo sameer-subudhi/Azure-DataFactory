@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "covid-reporting-adf2605"
+		},
+		"ls_ablob_covidreportingsa2505_connectionString": {
+			"value": ""
+		},
+		"ls_adls_covidreportingdl2505_accountKey": {
+			"value": ""
+		},
+		"ls_db_covid_cluster_accessToken": {
+			"value": ""
+		},
+		"ls_adls_covidreportingdl2505_properties_typeProperties_url": {
+			"value": "https://covidreportingdl2505.dfs.core.windows.net"
+		},
+		"ls_http_opendata_ecdc_europe_eu_properties_typeProperties_url": {
+			"value": "@{linkedService().sourceBaseURL}"
+		}
+	}
+}
