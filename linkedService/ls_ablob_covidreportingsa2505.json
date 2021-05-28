@@ -6,7 +6,7 @@
 		"type": "AzureBlobStorage",
 		"typeProperties": {
 			"connectionString": "DefaultEndpointsProtocol=https;AccountName=covidreportingsa2505;EndpointSuffix=core.windows.net;",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkNPVklELVJFUE9SVElORy1BREYyNjA1X2RlOThkZWE1LWI5NGUtNGZiZS04MDJkLWExNDcxY2NkZWQ1YyINCn0="
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkNPVklELVJFUE9SVElORy1BREYyODA1XzcyMDExOGZkLWUzNWQtNDQyYS1iMDRiLTE1ZjlmN2I4MjRhMSINCn0="
 		}
 	}
 }
