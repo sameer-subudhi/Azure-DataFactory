@@ -17,7 +17,7 @@
 				{
 					"type": "TumblingWindowTriggerDependencyReference",
 					"referenceTrigger": {
-						"referenceName": "tr_ingest_ecdc_data_group",
+						"referenceName": "tr_ingest_ecdc_data_new",
 						"type": "TriggerReference"
 					}
 				}
